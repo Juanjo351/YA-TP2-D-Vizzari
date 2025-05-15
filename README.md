@@ -1,1 +1,2 @@
-# YA-TP2-D-Vizzari
+parcial de TP2
+alumno: Vizzari Juan Jose
